@@ -1,0 +1,4 @@
+name:zhangsan
+sex:male
+age:18
+i love fcj
